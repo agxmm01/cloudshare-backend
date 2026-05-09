@@ -9,5 +9,4 @@ public class CloudshareapiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CloudshareapiApplication.class, args);
 	}
-
 }
