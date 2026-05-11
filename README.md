@@ -431,6 +431,4 @@ This project is built for educational and backend engineering learning purposes.
 ---
 
 # 👨‍💻 Author
-
-CloudShare Backend Project
-Built using Spring Boot, MongoDB, Docker, Prometheus, and G
+AGAMPAL SINGH.
